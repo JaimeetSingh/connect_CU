@@ -1,0 +1,85 @@
+.log
+{
+  background-color: #f0f5f5;
+  /*padding: 47px;*/
+  padding-top:1px;
+  padding-bottom: 93px;
+}
+
+.log .har
+{ 
+ text-align:left;
+ position: absolute;top:180px; 
+ left:700px;
+
+}
+.log .form-control
+{
+  
+  font-size:17px;
+  border-radius:6px;
+
+  
+}
+.log h4
+{
+
+}
+.log h1
+{
+  font-family:Helvetica;
+  font-size:70px;
+  color:#4169E1;
+}
+.log h1:hover {
+  transform:scale(1.1);
+}
+.log .card
+{
+
+box-shadow: 0 0 10px 0 rgba(100, 100, 100, 100);
+width:35%;
+border-radius: 8px;
+ margin-top: 160px;
+  margin-left: 70px;
+background-color:#FFFAFA;
+  
+
+}
+
+.log img{
+    height: 15%;
+    width: 15%;
+    margin-left: 300px;
+    margin-top: -270px;
+}
+.log #username
+{
+  height:50px;
+}
+.log #pwd
+{
+  height:50px;
+  
+}
+.log .btn-primary 
+{
+  height:50px;
+  background-color:#4169E1;
+  font-size:20px;
+}
+.log .btn-primary:hover
+{
+  opacity:0.5;  
+}
+  
+.log p
+{
+  margin-left:150px;
+  margin-top:20px;
+  font-weight:normal;
+}
+.log span
+{
+  color: red;
+}
